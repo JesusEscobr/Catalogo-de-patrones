@@ -1,0 +1,5 @@
+Categoría: Creacional.
+
+Propósito: Garantizar que una clase tenga una única instancia y proveer un acceso global a ella.
+
+Uso Real: Manejo de un pool de conexiones a base de datos o un logger.
