@@ -2,4 +2,4 @@ Categoría: Estructural.
 
 Propósito: Añadir funcionalidades a un objeto de forma dinámica sin modificar su estructura interna ni usar herencia.
 
-Uso Real: Un sistema de café donde añades "Leche", "Azúcar" o "Chocolate" a una bebida base.
+Uso Real: Un sistema de café donde añades "Leche", "Azucar" o "Chocolate" a una bebida base.
