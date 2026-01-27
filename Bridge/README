@@ -1,5 +1,5 @@
 Categoría: Estructural.
 
-Propósito: Desacoplar una abstracción de su implementación para que ambas puedan evolucionar de forma independiente.
+Propósito: Desacoplar una abstraccion de su implementación para que ambas puedan evolucionar de forma independiente.
 
 Uso Real: Un control remoto (abstracción) que funciona con diferentes marcas de TV (implementaciones).
