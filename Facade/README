@@ -1,0 +1,5 @@
+Categoría: Estructural.
+
+Propósito: Ofrecer una interfaz simplificada para un sistema o conjunto de clases complejo.
+
+Uso Real: Una API de "Realizar pedido" que internamente maneja inventario, cobro y envío.

@@ -1,0 +1,5 @@
+Categoría: Estructural.
+
+Propósito: Minimizar el uso de memoria compartiendo el estado común entre muchos objetos similares.
+
+Uso Real: Renderizar un bosque en un videojuego compartiendo los datos de textura de los miles de árboles.

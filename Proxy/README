@@ -1,0 +1,5 @@
+Categoría: Estructural.
+
+Propósito: Proporcionar un sustituto o intermediario para controlar el acceso a un objeto (por seguridad, carga perezosa o red).
+
+Uso Real: Un servidor proxy que cachea datos antes de ir al servidor real
