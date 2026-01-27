@@ -1,0 +1,5 @@
+Categoría: Estructural.
+
+Propósito: Permitir que dos interfaces incompatibles trabajen juntas traduciendo las llamadas de una a la otra.
+
+Uso Real: Usar una librería moderna que espera JSON con un sistema antiguo que entrega XML.

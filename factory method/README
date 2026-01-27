@@ -1,0 +1,5 @@
+Categoría: Creacional.
+
+Propósito: Delegar la creación de objetos a las subclases, permitiendo que una clase no sepa exactamente qué tipo de objeto creará hasta el tiempo de ejecución.
+
+Uso Real: Un sistema de logística que crea "Camiones" o "Barcos" según el transporte solicitado.

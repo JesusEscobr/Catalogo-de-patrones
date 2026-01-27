@@ -1,0 +1,5 @@
+Categoría: Creacional.
+
+Propósito: Crear familias de objetos relacionados sin especificar sus clases concretas, asegurando que los productos de una familia sean compatibles.
+
+Uso Real: Un kit de interfaz gráfica que crea botones y barras de scroll específicas para Mac o para Windows.

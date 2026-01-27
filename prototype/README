@@ -1,0 +1,5 @@
+Categoría: Creacional.
+
+Propósito: Crear nuevos objetos duplicando una instancia existente (clonación) en lugar de crearlos desde cero.
+
+Uso Real: Un juego donde se clonan enemigos con las mismas estadísticas base para ahorrar recursos.

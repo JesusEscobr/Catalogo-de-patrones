@@ -1,0 +1,5 @@
+Categoría: Creacional.
+
+Propósito: Separar la construcción de un objeto complejo de su representación, permitiendo crear diferentes variaciones usando el mismo proceso.
+
+Uso Real: Un generador de documentos que construye un PDF paso a paso (título, cuerpo, imágenes).
