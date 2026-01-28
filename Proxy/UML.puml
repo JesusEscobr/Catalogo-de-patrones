@@ -1,0 +1,21 @@
+@startuml UML
+
+interface Subject {
+  + ejecutar()
+}
+
+class Real <<RealSubject>> {
+  + ejecutar()
+}
+
+class Proxy <<Proxy>> {
+  - real : Subject
+  + ejecutar()
+}
+
+Real ..|> Subject
+Proxy ..|> Subject
+
+Proxy --> Real : controla acceso
+
+@enduml

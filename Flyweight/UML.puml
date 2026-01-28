@@ -1,0 +1,10 @@
+@startuml UML
+
+class Flyweight <<Flyweight>> {
+  {static} _modelos : dict
+  + __new__(nombre)
+}
+
+Flyweight --> Flyweight : reutiliza\ninstancia
+
+@enduml

@@ -1,0 +1,16 @@
+@startuml UML
+
+class Componente <<Component>>
+
+class Hoja <<Leaf>>
+
+class Compuesto <<Composite>> {
+  - hijos : List<Componente>
+}
+
+Hoja --|> Componente
+Compuesto --|> Componente
+
+Compuesto o-- "0..*" Componente : contiene
+
+@enduml

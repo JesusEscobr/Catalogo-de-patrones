@@ -1,0 +1,18 @@
+@startuml UML
+
+class CPU {
+  + encender()
+}
+
+class Disco {
+  + leer()
+}
+
+class ComputadoraFacade {
+  + iniciar()
+}
+
+ComputadoraFacade --> CPU : usa
+ComputadoraFacade --> Disco : usa
+
+@enduml
