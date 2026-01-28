@@ -12,9 +12,9 @@
 - Builder
 - Factory Method
 - Prototype
-- Adapter
 
  # Estructurales:
+ - Adapter
  - Bridge
  - Composite
  - Decorator
