@@ -1,5 +1,11 @@
 # Catalogo-de-patrones
 
+# Integrantes:
+- Jesús Aaron Guillermo Escobar Pérez
+- Karla Nava García
+- Ximena Geraldine García Pérez
+- Samuel Orval Vera Lavalle
+
 # Creacionales:
 - Singleton
 - Abstract Factory
