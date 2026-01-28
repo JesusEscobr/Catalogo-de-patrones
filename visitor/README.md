@@ -5,8 +5,6 @@
 **Propósito:** Separar operaciones de la estructura de objetos, permitiendo agregar nuevas operaciones sin modificar las clases.
 
 **Uso Real:** Sistema de nómina que calcula impuestos diferentes para empleados y contratistas sin modificar sus clases.
-<<<<<<< HEAD
-=======
 
 ## Diagrama UML
 
@@ -27,4 +25,3 @@ classDiagram
     Visitor <|.. CalculadoraImpuestos
     Empleado --> Visitor : acepta
 ```
->>>>>>> fa27711533923cdc89b4ad4604b38f877fa7e4fd

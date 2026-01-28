@@ -5,8 +5,6 @@
 **Propósito:** Definir una gramática simple e interpretar sentencias de ese lenguaje.
 
 **Uso Real:** Calculadora que interpreta expresiones matemáticas como "5 + 3".
-<<<<<<< HEAD
-=======
 
 ## Diagrama UML
 
@@ -30,4 +28,3 @@ classDiagram
     Suma --> Expresion : izq
     Suma --> Expresion : der
 ```
->>>>>>> fa27711533923cdc89b4ad4604b38f877fa7e4fd
